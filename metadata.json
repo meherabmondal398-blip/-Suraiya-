@@ -1,0 +1,6 @@
+{
+  "name": "Suraiya",
+  "description": "সুরাইয়া — আধুনিক বাংলা ও ইংরেজি এআই ভয়েস অ্যাসিস্ট্যান্ট",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
